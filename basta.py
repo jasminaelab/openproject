@@ -1,5 +1,4 @@
-#!/usr/bin/python
-#importovanje potrebnih biblioteka
+
 from subprocess import call
 import time 
 import urllib 
